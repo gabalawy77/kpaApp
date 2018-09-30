@@ -9,11 +9,11 @@
     <name>kpa</name>
 
     <description>
-        Moodle official app
+        تطبيق المبرمجين الصغار
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        أكاديمية المبرمجين الصغار
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
